@@ -54,7 +54,7 @@
 <h2>Application layer DDOS attack example</h2>
 
 <p align="center">
-  <img alt="Application layer DDOS attack example" src = "\\extra\\ddos demonestration.png">
+  <img alt="Application layer DDOS attack example" src = "https://github.com/montasim/DDOS-Script/blob/master/extra/ddos%20demonestration.png">
 </p>
 
 <h2>Features</h2>
